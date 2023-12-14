@@ -41,6 +41,7 @@ iban varchar(50)
 );
 create table clanovi(
 grupa int not null,
+Evo ovo
 polaznik int not null
 );
 
